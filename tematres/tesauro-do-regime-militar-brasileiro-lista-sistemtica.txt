@@ -1,0 +1,785 @@
+Título: Tesauro do Regime Militar Brasileiro
+Autor: CPDOC - EMAp
+Palavras chave: Regime Militar
+Cobertura: 
+URI: http://200.20.164.145/tematres/vocab
+Criado por: TemaTres 1.7
+__________________________________________________________________________
+Regime Militar Brasileiro
+ .	Documentos
+ .	 .	INDEFINIDOS
+ .	 .	 .	Documento da direção do Riocentro
+ .	 .	 .	Documento do 18º BPM
+ .	 .	 .	Fotos Editora Abril
+ .	 .	 .	Mudança de Comandante
+ .	 .	 .	Ordem do Comando Geral da PM
+ .	 .	 .	Relatório referente ao IPM alternativo
+ .	 .	 .	Script do noticiário da TV Bandeirantes
+ .	 .	 .	Script do noticiário da TV Globo
+ .	 .	 .	Scripts dos noticiários da TV Globo
+ .	 .	Inquéritos
+ .	 .	 .	Inquérito do Riocentro
+ .	 .	Periódicos
+ .	 .	 .	Jornal do Brasil, 02/05/1981
+ .	 .	 .	Jornal do Brasil, 02/05/1981*
+ .	 .	 .	Jornal do Brasil, 06/06/1981
+ .	 .	 .	Jornal O Estado de São Paulo, 03/07/1981
+ .	 .	 .	Jornal O Globo, 02/05/1981
+ .	 .	 .	Revista Fatos, 29/04/1985
+ .	 .	 .	Revista ISTOÉ, 08/07/1981 (n° 237)
+ .	 .	 .	Revista ISTOÉ, 22/07/1981
+ .	 .	 .	Revista ISTOÉ, 24/04/1985
+ .	 .	 .	Revista Veja, n. XX
+ .	 .	Leis
+ .	 .	 .	Lei de imprensa
+ .	 .	 .	Lei de segurança nacional
+ .	 .	 .	Lei Falcão
+ .	 .	 .	Lei Fleury
+ .	 .	 .	Lei orgânico
+ .	 .	 .	Lei Suplicy
+ .	 .	Pacotes
+ .	 .	 .	Pacote de Abril
+ .	 .	Pactos
+ .	 .	 .	Pacto Andino
+ .	 .	 .	Pacto Internacional de Direitos Civis e Políticos
+ .	 .	 .	Pacto social
+ .	 .	Planos
+ .	 .	 .	Plano Decenal de Desenvolvimento Econômico e Social
+ .	 .	 .	Planos Nacionais de Desenvolvimento nº 1
+ .	 .	 .	Planos Nacionais de Desenvolvimento nº 2
+ .	 .	Programas
+ .	 .	 .	Programa de Ação Econômica do Governo
+ .	 .	 .	Programa de Integração Nacional
+ .	 .	 .	Programa de metas e bases para a ação do governo
+ .	 .	 .	Programa Espacial Brasileiro
+ .	 .	 .	Programa estratégico de desenvolvimento
+ .	 .	 .	Programa Nacional de Alfabetização
+ .	 .	 .	Programa Nacional de Irrigação
+ .	 .	 .	Programa Nacional de Segurança Pública com Cidadania
+ .	 .	 .	Programa Nacional do Álcool
+ .	 .	 .	Programa Nuclear Brasileiro
+ .	 .	Projetos
+ .	 .	 .	Projeto Camelot
+ .	 .	 .	Projeto Carajás
+ .	 .	 .	Projeto Jarí
+ .	 .	 .	Projeto Lagoa Mirim
+ .	 .	Reformas
+ .	 .	 .	Reforma agrária
+ .	 .	 .	Reforma universitária
+ .	 .	 .	Reforma universitária de 1968
+ .	 .	Relatórios
+ .	 .	 .	Relatório Meira Matos
+ .	 .	Resoluções
+ .	 .	 .	Resolução 63
+ .	 .	Tratados
+ .	 .	 .	Tratado de cooperação amazônica
+ .	 .	 .	Tratado de não-proliferação de armas nucleares
+ .	 .	 .	Tratado Interamericano de Assistência Recíproca
+ .	 .	AI-5
+ .	Eventos / Processos
+ .	 .	Atentado no Riocentro
+ .	Instituições/Organizações
+ .	 .	Instituições/Organizações da sociedade civil
+ .	 .	 .	Ação Católica Brasileira
+ .	 .	 .	Ação Libertadora Nacional
+ .	 .	 .	Ação Popular
+ .	 .	 .	Ala Moça do PSD
+ .	 .	 .	Ala Vermelha
+ .	 .	 .	Aliança Para o Progresso
+ .	 .	 .	Anistia Internacional
+ .	 .	 .	Arena
+ .	 .	 .	Associação Brasileira de Imprensa
+ .	 .	 .	Associação Brasileira de Reforma Agrária
+ .	 .	 .	Associação dos Diplomados da Escola Superior de Guerra
+ .	 .	 .	Campanha da Mulher pela Democracia
+ .	 .	 .	Central Única dos Trabalhadores
+ .	 .	 .	Centro Acadêmico Candido de Oliveira
+ .	 .	 .	Centro Acadêmico XI de Agosto
+ .	 .	 .	Centro Brasileiro de Análise e Planejamento
+ .	 .	 .	Clube da Aeronáutica
+ .	 .	 .	Comando de Caça aos Comunistas
+ .	 .	 .	Comando Geral dos Trabalhadores
+ .	 .	 .	CEBRADE
+ .	 .	 .	Clube de Engenharia
+ .	 .	 .	Clube Militar
+ .	 .	 .	Clube Naval
+ .	 .	 .	Colégio de Aplicação da UFRJ
+ .	 .	 .	Colina
+ .	 .	 .	OAB
+ .	 .	Instituições/Organizações estatais
+ .	 .	 .	Centro de Informações do Exército
+ .	 .	 .	DOI
+ .	 .	 .	Exército
+ .	 .	 .	Forças Armadas
+ .	 .	 .	Justiça Militar
+ .	 .	 .	PM
+ .	 .	 .	SNI
+ .	 .	 .	STM
+ .	Locais
+ .	 .	Riocentro
+ .	Papéis Desempenhados
+ .	 .	Artista
+ .	 .	 .	Cantor(a)
+ .	 .	Ativista
+ .	 .	Jurista
+ .	 .	 .	Corregedor(a)
+ .	 .	 .	Juiz(a)
+ .	 .	Militar
+ .	 .	 .	General
+ .	 .	 .	Tenente-Brigadeiro
+ .	 .	 .	Adido militar
+ .	 .	 .	Adido naval
+ .	 .	 .	Ajudante de ordens
+ .	 .	Político
+ .	 .	 .	Ministro(a)
+ .	 .	 .	 .	Ministro do Superior Tribunal Militar
+ .	 .	Profissional Liberal
+ .	 .	 .	Advogado
+ .	 .	 .	Jornalista
+ .	 .	Religioso
+ .	 .	 .	Arcebispo
+ .	Períodos
+ .	 .	Anos
+ .	 .	 .	1981
+ .	 .	Governos
+ .	 .	 .	01) 08/09/1961 a 01/04/1964 - Governo João Goulart
+ .	 .	 .	02) 02/04/1964 a 15/04/1964 - Governo Ranieri Mazzilli
+ .	 .	 .	03) 15/04/1964 a 15/03/1967 - Governo Castelo Branco
+ .	 .	 .	04) 15/03/1967 a 31/08/1969 - Governo Costa e Silva
+ .	 .	 .	05) 31/08/1969 a 30/10/1969 - Junta Militar
+ .	 .	 .	06) 30/10/1969 a 15/03/1974 - Governo Emílio Garrastazu Médici
+ .	 .	 .	07) 15/03/1974 a 15/03/1979 - Governo Ernesto Geisel
+ .	 .	 .	08) 15/03/1979 a 15/03/1985 - Governo João Batista Figueiredo
+ .	 .	 .	09) 15/03/1985 a 15/03/1990 - Governo José Sarney
+ .	Personalidades
+ .	 .	Abdias do Nascimento
+ .	 .	Abel Rafael
+ .	 .	Abgar Renault
+ .	 .	Acildon de Matos Pae
+ .	 .	Adalberto de Barros Nunes
+ .	 .	Adalberto Nader
+ .	 .	Adalgisa Néri
+ .	 .	Adalício Nogueira
+ .	 .	Adão Pereira Nunes
+ .	 .	Adão Preto
+ .	 .	Adauto Pereira
+ .	 .	Adolfo de Oliveira
+ .	 .	Aécio Neves
+ .	 .	Afonso Celso Pastore
+ .	 .	Afrânio Oliveira
+ .	 .	Agnelo Rossi
+ .	 .	Agostinho Rodrigues
+ .	 .	Airon Rios
+ .	 .	Alacid Nunes
+ .	 .	Alberto Ribeiro Paz
+ .	 .	Alcebíades de Oliveira
+ .	 .	Alcir Pimenta
+ .	 .	Aldir Passarinho
+ .	 .	Aldo Pinto
+ .	 .	Aldo Rebelo
+ .	 .	Alexandre Puzyna
+ .	 .	Alfredo Nasser
+ .	 .	Alfredo Pereira Nunes
+ .	 .	Alice Portugal
+ .	 .	Alim Pedro
+ .	 .	Almir Pazzianotto
+ .	 .	Almir Pinto
+ .	 .	Altamiro Rossato
+ .	 .	Aluísio Nonô
+ .	 .	Aluísio Palhano
+ .	 .	Aluísio Paraguaçu
+ .	 .	Aluísio Pimenta
+ .	 .	Álvaro Pacheco
+ .	 .	Álvaro Pereira
+ .	 .	Alysson Paulinelli
+ .	 .	Amilcar de Queirós
+ .	 .	Anadyr de Mendonça Rodrigues
+ .	 .	André Lara Resende
+ .	 .	Angel Federico Robledo
+ .	 .	Angelino Rosa
+ .	 .	Anísio Rocha
+ .	 .	Anselmo Peraro
+ .	 .	Antônio Brochado da Rocha
+ .	 .	Antonio Carlos de Seixas Telles
+ .	 .	Antônio Carlos Konder Reis
+ .	 .	Antônio Carlos Murici
+ .	 .	Antônio Carlos Pannunzio
+ .	 .	Antônio Celso de Queirós
+ .	 .	Antônio Eusébio da Costa Rodrigues
+ .	 .	Antônio Fonseca Pimentel
+ .	 .	Antônio Geraldo Peixoto
+ .	 .	Antônio Gonçalves de Oliveira
+ .	 .	Antônio Horácio Pereira
+ .	 .	Antônio José Sá Nascimento
+ .	 .	Antônio Luciano Pereira Filho
+ .	 .	Antônio Neder
+ .	 .	Antônio Neves
+ .	 .	Antônio Osório
+ .	 .	Antônio Palocci
+ .	 .	Antônio Pedrosa
+ .	 .	Antônio Pontes
+ .	 .	Antônio Prestes de Paula
+ .	 .	Antunes Oliveira
+ .	 .	Araceli de Paula
+ .	 .	Ardinal Ribas
+ .	 .	Ari Pitombo
+ .	 .	Ari Rodrigues
+ .	 .	Arlindo Porto
+ .	 .	Armando Assis Possa
+ .	 .	Armando Patrício
+ .	 .	Armando Perdigão
+ .	 .	Armando Pinheiro
+ .	 .	Armando Rollemberg
+ .	 .	Arnaldo Leite Pereira
+ .	 .	Arnaldo Nogueira
+ .	 .	Arnaldo Prieto
+ .	 .	Arnaldo Rosa Prata
+ .	 .	Artur César Ferreira Reis
+ .	 .	Astrojildo Pereira
+ .	 .	Ataliba Nogueira
+ .	 .	Audísio Pinheiro
+ .	 .	Augusto do Amaral Peixoto
+ .	 .	Augusto Novais
+ .	 .	Augusto Nunes
+ .	 .	Augusto Rademaker
+ .	 .	Aurélio Peres
+ .	 .	Batista Ramos
+ .	 .	Belo Parga
+ .	 .	Bento Porto
+ .	 .	Bezerra de Norões
+ .	 .	Bilac Pinto
+ .	 .	Bivar Olinto
+ .	 .	Braga Ramos
+ .	 .	Brás Nogueira
+ .	 .	Caio Prado Júnior
+ .	 .	Cândido de Oliveira Neto
+ .	 .	Canindé Pegado
+ .	 .	Carlos Alberto Cabral Ribeiro
+ .	 .	Carlos Alberto de Andrade Pinto
+ .	 .	Carlos Alberto Oliveira
+ .	 .	Carlos Antônio da Rocha Paranhos
+ .	 .	Carlos Augusto de Oliveira
+ .	 .	Carlos Augusto Rego Santos Neves
+ .	 .	Carlos Fulgêncio da Cunha Peixoto
+ .	 .	Carlos Henrique de Noronha
+ .	 .	Carlos Nelson
+ .	 .	Carlos Patrocínio
+ .	 .	Carlos Pujol
+ .	 .	Carlos Quintela
+ .	 .	Carlos Rischbieter
+ .	 .	Carlos Silvestre de Ouro Preto
+ .	 .	Carlos Valdemar Rollemberg
+ .	 .	Caruso da Rocha
+ .	 .	Carvalho Pinto
+ .	 .	Castro Neves
+ .	 .	Catete Pinheiro
+ .	 .	Célio Lobão Ferreira
+ .	 .	Celso Murta
+ .	 .	Celso Passos
+ .	 .	Celso Peçanha
+ .	 .	Celso Ramos
+ .	 .	César Nascimento
+ .	 .	César Peluso
+ .	 .	César Prieto
+ .	 .	Cesar Wachulec
+ .	 .	Chagas Rodrigues
+ .	 .	Ciro Nogueira
+ .	 .	Clarck Platon
+ .	 .	Claudionor Roriz
+ .	 .	Clemir Ramos
+ .	 .	Clodesmidt Riani
+ .	 .	Clóvis Pestana
+ .	 .	Clóvis Ramalhete
+ .	 .	Cortez Pereira
+ .	 .	Costa Porto
+ .	 .	Costa Rego
+ .	 .	Croaci de Oliveira
+ .	 .	Dante de Oliveira
+ .	 .	Dante Pellacani
+ .	 .	Darci Passos
+ .	 .	Darci Pozza
+ .	 .	Darcy Ribeiro
+ .	 .	Davi Nasser
+ .	 .	Delmiro d' Oliveira
+ .	 .	Demerval Pimenta
+ .	 .	Dênio Nogueira
+ .	 .	Derval de Paiva
+ .	 .	Devanir Ribeiro
+ .	 .	Dilmar de Vasconcelos Rosa
+ .	 .	Dimas Ramalho
+ .	 .	Diogo Nomura
+ .	 .	Dirceu Nogueira
+ .	 .	Dirno Pires
+ .	 .	Dix-Huit Rosado
+ .	 .	Djalma Passos
+ .	 .	Djenal Queirós
+ .	 .	Duílio Pisaneschi
+ .	 .	Éden Pedroso
+ .	 .	Edésio Nunes
+ .	 .	Edésio Passos
+ .	 .	Edgar Amorim Pereira
+ .	 .	Edgar Pereira
+ .	 .	Edmundo da Costa Neves
+ .	 .	Edmundo Franca de Oliveira
+ .	 .	Eduardo Portela
+ .	 .	Edvaldo Nogueira
+ .	 .	Elias Nacle
+ .	 .	Eliseu Padilha
+ .	 .	Eliseu Paglioli
+ .	 .	Eliseu Resende
+ .	 .	Elói da Rocha
+ .	 .	Elton Rohnelt
+ .	 .	Emanuel Pinheiro
+ .	 .	Emanuel Pinto
+ .	 .	Emídio Perondi
+ .	 .	Emílio Rodrigues Ribas Júnior
+ .	 .	Ênio Romagnolli
+ .	 .	Enoc Reis
+ .	 .	Erasmo Pedro
+ .	 .	Érico Pegoraro
+ .	 .	Ernani do Amaral Peixoto
+ .	 .	Etevaldo Nogueira
+ .	 .	Euclides Quandt de Oliveira
+ .	 .	Eudoro Pedrosa
+ .	 .	Eugênio Prato
+ .	 .	Eunápio de Queirós
+ .	 .	Eunício Oliveira
+ .	 .	Eurico Oliveira
+ .	 .	Eurico Resende
+ .	 .	Eurico Ribeiro
+ .	 .	Eusébio Rocha
+ .	 .	Evaldo Pinto
+ .	 .	Ewald Pinheiro
+ .	 .	Expedito Rafael
+ .	 .	Expedito Resende
+ .	 .	Expedito Rodrigues
+ .	 .	Ezídio Pinheiro
+ .	 .	Fábio Raunheitti
+ .	 .	Fausto Rocha
+ .	 .	Fernando Antônio Roquete Reis
+ .	 .	Fernando de Almeida Nobre
+ .	 .	Fernando Ernesto Carneiro Ribeiro
+ .	 .	Fernando Nóbrega
+ .	 .	Fernando Pimentel
+ .	 .	Feu Rosa
+ .	 .	Feu Rosa (1)
+ .	 .	Flaviano Ribeiro
+ .	 .	Flávio Peixoto
+ .	 .	Flávio Perri
+ .	 .	Flexa Ribeiro
+ .	 .	Floriceno Paixão
+ .	 .	Francelino Pereira
+ .	 .	Francisco Bilac Pinto
+ .	 .	Francisco Damasceno Ferreira Portugal
+ .	 .	Francisco Luís Torres de Oliveira
+ .	 .	Francisco Pessoa de Queirós
+ .	 .	Francisco Pinto
+ .	 .	Francisco Rezek
+ .	 .	Francisco Rocha
+ .	 .	Francisco Rollemberg
+ .	 .	Francisco Rossi
+ .	 .	Franklin de Oliveira
+ .	 .	Freitas Nobre
+ .	 .	Gastão Pedreira
+ .	 .	Gastone Righi
+ .	 .	Geraldo de Pina
+ .	 .	Geraldo Lyrio Rocha
+ .	 .	Geraldo Navarro
+ .	 .	Geraldo Pastana
+ .	 .	Gerardo Renault
+ .	 .	Germano Rigotto
+ .	 .	Gerson Peres
+ .	 .	Getulio Neiva
+ .	 .	Gilda Pereira
+ .	 .	Gilvan Rocha
+ .	 .	Glycon de Paiva
+ .	 .	Golberi do Couto e Silva
+ .	 .	Gonzaga Patriota
+ .	 .	Gorete Pereira
+ .	 .	Grimaldi Ribeiro
+ .	 .	Guaçu Piteri
+ .	 .	Guerreiro Ramos
+ .	 .	Guilherme Leite Ribeiro
+ .	 .	Guilherme Palmeira
+ .	 .	Guilhermino de Oliveira
+ .	 .	Gustavo de Morais Rego
+ .	 .	Hamilton Nogueira
+ .	 .	Hamilton Prado
+ .	 .	Haroldo Leon Peres
+ .	 .	Hary Normaton
+ .	 .	Helenildo Ribeiro
+ .	 .	Heli Ribeiro
+ .	 .	Hélio Lourenço de Oliveira
+ .	 .	Hélio Navarro
+ .	 .	Hélio Ramos
+ .	 .	Helvídio Nunes
+ .	 .	Henri  Phillipe Reichstul
+ .	 .	Henrique Cordeiro Oest
+ .	 .	Henrique Otávio Aché Pilar
+ .	 .	Henrique Pretti
+ .	 .	Heráclio Rego
+ .	 .	Hermogenes Príncipe
+ .	 .	Hildérico Oliveira
+ .	 .	Horácio Ortiz
+ .	 .	Horst Roding
+ .	 .	Hugo Napoleão (2-neto)
+ .	 .	Hugo Ramos
+ .	 .	Humberto Meneses Pinheiro
+ .	 .	Humberto Reis
+ .	 .	Ibsen Pinheiro
+ .	 .	Ile Marlen Lobo Pereira Nunes
+ .	 .	Inocêncio Oliveira
+ .	 .	Ipojuca Pontes
+ .	 .	Irajá Rodrigues
+ .	 .	Iranildo Pereira
+ .	 .	Íris Resende
+ .	 .	Irma Passoni
+ .	 .	Isaac Nahon
+ .	 .	Isaac Newton
+ .	 .	Ismael da Mota Pais
+ .	 .	Israel Novais
+ .	 .	Israel Pinheiro
+ .	 .	Israel Pinheiro Filho
+ .	 .	Iturival Nascimento
+ .	 .	Ivaldo Perdigão
+ .	 .	Ivan Paixão
+ .	 .	Ivan Ranzolin
+ .	 .	Ivan Ribeiro
+ .	 .	Jacques d'Ornelas
+ .	 .	Jacy Guimarães Pinheiro
+ .	 .	Jaime Portela
+ .	 .	Jair Dantas Ribeiro
+ .	 .	Jamil Murad
+ .	 .	Janari Nunes
+ .	 .	Janete Pietá
+ .	 .	Jânio Quadros
+ .	 .	Jarbas Passarinho
+ .	 .	Jarmund Nasser
+ .	 .	Jefferson Cardim de Alencar Osório
+ .	 .	Jesus Soares Pereira
+ .	 .	Joacil Pereira
+ .	 .	João (PE) Paulo
+ .	 .	João Batista Pinheiro
+ .	 .	João Camilo Pena
+ .	 .	João Mendes Olímpio
+ .	 .	João Paganella
+ .	 .	João Pinheiro Neto
+ .	 .	João Rebelo
+ .	 .	João Ribeiro (PR)
+ .	 .	João Ribeiro (TO)
+ .	 .	João Rocha
+ .	 .	João Rodolfo
+ .	 .	João Roma
+ .	 .	João Romeiro Neto
+ .	 .	Joaquim Parente
+ .	 .	Joaquim Ramos
+ .	 .	Joaquim Roriz
+ .	 .	Joaquim Sabino Ribeiro
+ .	 .	Joel Mendes Rennó
+ .	 .	Joel Ribeiro
+ .	 .	Jonas Pinheiro (2 - MT)
+ .	 .	Jônatas Nunes
+ .	 .	Jones Santos Neves
+ .	 .	Jorge Alberto Romeiro
+ .	 .	Jorge Carlos Ribeiro
+ .	 .	Jorge Luiz Dodaro
+ .	 .	Jorge Paulo Nogueira
+ .	 .	Jorge sá Freire de Pinho
+ .	 .	José Batista de Oliveira Júnior
+ .	 .	José Bonifácio Coutinho Nogueira
+ .	 .	José Canavarro Pereira
+ .	 .	José Elias Murad
+ .	 .	José Ferraz da Rocha
+ .	 .	José Gomes da Rocha
+ .	 .	José Hosken Novais
+ .	 .	José Lopes de Oliveira
+ .	 .	José Luís da Fonseca Peyon
+ .	 .	José Maria do Amaral Oliveira
+ .	 .	José Maria Ribeiro
+ .	 .	José Muniz Ramos
+ .	 .	José Newton
+ .	 .	José Nogueira Pais
+ .	 .	José Onias
+ .	 .	José Pedroso
+ .	 .	José Pedroso Júnior
+ .	 .	José Peixoto Filho
+ .	 .	José Penedo
+ .	 .	José Pimentel
+ .	 .	José Pinotti
+ .	 .	José Pinto de Araújo Rabelo
+ .	 .	José Resegue
+ .	 .	José Resende
+ .	 .	José Richa
+ .	 .	José Rios
+ .	 .	José Rocha
+ .	 .	José Rollemberg
+ .	 .	José Romero
+ .	 .	José Tavares Bordeaux Rego
+ .	 .	José Tomás Nonô
+ .	 .	Josias Quintal
+ .	 .	Julio de Sá Bierrenbach
+ .	 .	Júlio Miguel Molinas Dias
+ .	 .	Júlio Redecker
+ .	 .	Junior Osmar
+ .	 .	Jurandir Paixão
+ .	 .	Justino Pereira
+ .	 .	Laudo Natel
+ .	 .	Laurentino Pereira
+ .	 .	Lauro Alves Pinto
+ .	 .	Lauro Rodrigues
+ .	 .	Leivas Otero
+ .	 .	Leo Frederico Cinelli
+ .	 .	Léo Neves
+ .	 .	Leo Riffel
+ .	 .	Leônidas Rachid
+ .	 .	Leopoldo Peres
+ .	 .	Levi Penna Aarão Reis
+ .	 .	Lisandro Vieira da Paixão
+ .	 .	Louremberg Nunes Rocha
+ .	 .	Lourenço Ferreira do Prado
+ .	 .	Lucas Moreira Neves
+ .	 .	Luciano Pizzatto
+ .	 .	Lucídio Portela
+ .	 .	Ludgero Raulino
+ .	 .	Luís Alberto Rodrigues
+ .	 .	Luís Bastian Pinto
+ .	 .	Luís Carlos Bresser Pereira
+ .	 .	Luis Carlos Guedes Pinto
+ .	 .	Luís Carlos Prestes
+ .	 .	Luís de Paula
+ .	 .	Luís de Toledo Piza Sobrinho
+ .	 .	Luís Miguel Pinaud
+ .	 .	Luís Pereira
+ .	 .	Luís Pinguelli Rosa
+ .	 .	Luís Rocha
+ .	 .	Luís Vicente Belford Ouro Preto
+ .	 .	Machado Rolemberg
+ .	 .	Magalhães Pinto
+ .	 .	Maílson Nobrega
+ .	 .	Manuel Novais
+ .	 .	Manuel Ribeiro
+ .	 .	Manuel Rodrigues
+ .	 .	Marcelo Ortiz
+ .	 .	Marcelo Pimentel
+ .	 .	Marcial Dias Pequeno
+ .	 .	Márcio Pais
+ .	 .	Márcio Reinaldo
+ .	 .	Marco César Meira Naslausky
+ .	 .	Marconi Perillo
+ .	 .	Marcos Rolim
+ .	 .	Maria Ângela Lopes Campobianco
+ .	 .	Mário de Oliveira
+ .	 .	Mário Pacini
+ .	 .	Mário Pedrosa
+ .	 .	Mário Penteado
+ .	 .	Mário Pereira
+ .	 .	Mário Piva
+ .	 .	Mário Silva O'reilly
+ .	 .	Martins Rodrigues
+ .	 .	Matos Pimenta
+ .	 .	Maurício Rands
+ .	 .	Mauro César Rodrigues Pereira
+ .	 .	Max Rosenmann
+ .	 .	Melo Reis
+ .	 .	Meneses Pimentel
+ .	 .	Miguel Reale
+ .	 .	Miguel Reale Junior
+ .	 .	Miguel Rosseto
+ .	 .	Milton Menezes da Costa Filho
+ .	 .	Milton Reis
+ .	 .	Míriam Portela
+ .	 .	Moacir Barcelos Potiguara
+ .	 .	Moacyr Veloso Cardoso de Oliveira
+ .	 .	Moisés Pimentel
+ .	 .	Moreira da Rocha
+ .	 .	Munhoz da Rocha
+ .	 .	Murilo Paraíso
+ .	 .	Murilo Resende
+ .	 .	Nadir Rosseti
+ .	 .	Neci Novais
+ .	 .	Nelson Omegna
+ .	 .	Nelson Pelegrino
+ .	 .	Nélson Ribeiro
+ .	 .	Nicias Ribeiro
+ .	 .	Nilton Rodrigues
+ .	 .	Nina Ribeiro
+ .	 .	Nobuo Okushi
+ .	 .	Nogueira de Resende
+ .	 .	Nunes Rocha
+ .	 .	Octávio José Sampaio Fernandes
+ .	 .	Olavo Pires
+ .	 .	Olavo Previatti
+ .	 .	Orensi Rodrigues
+ .	 .	Orestes Quércia
+ .	 .	Orlando Marques de Paiva
+ .	 .	Orosimbo Nonato
+ .	 .	Oscar de Oliveira
+ .	 .	Oscar Niemeyer
+ .	 .	Oscar Noronha Filho
+ .	 .	Oscar Passos
+ .	 .	Osiris Pontes
+ .	 .	Osmânio Pereira
+ .	 .	Osmundo Rebouças
+ .	 .	Osni Régis
+ .	 .	Osvaldo Muniz Oliva
+ .	 .	Osvaldo Murta
+ .	 .	Osvaldo Nascimento
+ .	 .	Osvaldo Pacheco
+ .	 .	Osvaldo Piana
+ .	 .	Osvalso Orico
+ .	 .	Otacilio Nobrega de Queirós
+ .	 .	Otávio Murguel de Resende
+ .	 .	Otávio Rainho
+ .	 .	Oto Lara Resende
+ .	 .	Otomar Pinto
+ .	 .	Padre Godinho
+ .	 .	Padre Nobre
+ .	 .	Padre Vieira
+ .	 .	Passos Porto
+ .	 .	Pastor Oliveira
+ .	 .	Paulo Alberto de Oliveira
+ .	 .	Paulo Baeta Neves
+ .	 .	Paulo Campos Paiva
+ .	 .	Paulo de Bonoso Duarte Pinto
+ .	 .	Paulo Mário da Cunha Rodrigues
+ .	 .	Paulo Munhoz da Rocha
+ .	 .	Paulo Nascimento
+ .	 .	Paulo Néri
+ .	 .	Paulo Paim
+ .	 .	Paulo Paiva
+ .	 .	Paulo Piau
+ .	 .	Paulo Pimentel
+ .	 .	Paulo Protásio
+ .	 .	Paulo Ramos (RJ)
+ .	 .	Paulo Rattes
+ .	 .	Paulo Richer
+ .	 .	Paulo Rocha
+ .	 .	Paulo Romano
+ .	 .	Pedro Augusto Moura Palha
+ .	 .	Pedro Neiva
+ .	 .	Pedro Pedrossian
+ .	 .	Pedro Pomar
+ .	 .	Pelé
+ .	 .	Pereira Pinto (RJ)
+ .	 .	Petrônio Portela
+ .	 .	Plínio Correia de Oliveira
+ .	 .	Praxedes Pitanga
+ .	 .	Professor Luisinho
+ .	 .	Professor Sétimo
+ .	 .	Querubim Rosa Filho
+ .	 .	Radir Pereira
+ .	 .	Rafael Noschese
+ .	 .	Rafael Resende
+ .	 .	Raimundo Padilha
+ .	 .	Raimundo Parente
+ .	 .	Ramon de Oliveira Neto
+ .	 .	Rangel Reis
+ .	 .	Raul Fernando Belford Roxo Ribeiro
+ .	 .	Raul Pilla
+ .	 .	Raul Pont
+ .	 .	Régis de Oliveira
+ .	 .	Régis Pacheco
+ .	 .	Renato Ribeiro
+ .	 .	Ricardo Ribeiro
+ .	 .	Roberto Requião
+ .	 .	Roberto Rodrigues
+ .	 .	Roberto Rolemberg
+ .	 .	Rodolfo Becker Reifschneider
+ .	 .	Rodrigo Otávio
+ .	 .	Rogério Rego
+ .	 .	Romeu Ramos
+ .	 .	Ronaldo Poleti
+ .	 .	Rondon Pacheco
+ .	 .	Rosemburgo Romano
+ .	 .	Rospide Neto
+ .	 .	Rubem Nogueira
+ .	 .	Rubem Rosa
+ .	 .	Rubens Mário Brum Negreiros
+ .	 .	Rubens Ottoni
+ .	 .	Rubens Paiva
+ .	 .	Rubens Rangel
+ .	 .	Rubens Ricupero
+ .	 .	Rui de Lima Pessoa
+ .	 .	Rui Nedel
+ .	 .	Rui Novais
+ .	 .	Rui Palmeira
+ .	 .	Ruy de Lima Pessoa
+ .	 .	Salomão Rehem
+ .	 .	Saramago Pinheiro
+ .	 .	Saulo Queirós
+ .	 .	Sebastião Néri
+ .	 .	Sebastião Rodrigues Júnior
+ .	 .	Sepúlveda Pertence
+ .	 .	Sérgio de Ari Pires
+ .	 .	Sérgio Murilo
+ .	 .	Sérgio Novais
+ .	 .	Sérgio Resende
+ .	 .	Sigefredo Pacheco
+ .	 .	Sílvio Pessoa
+ .	 .	Sílvio Piza Pedrosa
+ .	 .	Sizinio Pontes Nogueira
+ .	 .	Sobral Pinto
+ .	 .	Sólon Borges dos Reis
+ .	 .	Tácito Teófilo Gaspar de Oliveira
+ .	 .	Tales Ramalho
+ .	 .	Taurino de Resende
+ .	 .	Temperani Pereira
+ .	 .	Teobaldo de Nigris
+ .	 .	Teófilo Pires
+ .	 .	Teresa Quintela
+ .	 .	Tibério Barbosa Nunes
+ .	 .	Trajano Pupo Neto
+ .	 .	Trancredo Neves
+ .	 .	Tufy Nassif
+ .	 .	Túlio Chagas Nogueira
+ .	 .	Ulderico Pinto
+ .	 .	Ulisses Potiguar
+ .	 .	Ursicino Queirós
+ .	 .	Valdir Neves
+ .	 .	Valdir Pugliesi
+ .	 .	Valdir/Waldyr Muniz
+ .	 .	Válter de Meneses Pais
+ .	 .	Valter de Prá
+ .	 .	Valter Nory
+ .	 .	Válter Passos
+ .	 .	Valter Pereira
+ .	 .	Válter Pires
+ .	 .	Venitius Nazaré Notare
+ .	 .	Vicente Penido
+ .	 .	Vicente Queirós
+ .	 .	Vicente Rao
+ .	 .	Vilmar Pallis
+ .	 .	Vingt Rosado
+ .	 .	Vital do Rego
+ .	 .	Vladimir Palmeira
+ .	 .	Waldeck Ornelas
+ .	 .	Waldir Pires
+ .	 .	Walter Pinheiro
+ .	 .	Wilson Leite Passos
+ .	 .	Wilson Luís Chaves Machado
+ .	 .	Wilson Romão
+ .	 .	Wilson Roriz
+ .	 .	Zaire Nunes
+ .	 .	Zezéu Ribeiro
+ .	 .	Dickson M. Grael
+ .	 .	Gentil Marcondes Filho
+ .	 .	Guilherme Pereira do Rosário
+ .	 .	Job Lorena de Sant’Anna
+ .	 .	Julio Alberto de Morais Coutinho
+ .	 .	Luís Antônio Prado Ribeiro
+ .	 .	Nilton Cerqueira
+ .	 .	Ademar de Queirós
+ .	 .	Araken de Oliveira
+ .	 .	Bernardo Cabral
+ .	 .	Candal Fonseca
+ .	 .	Costa e Silva
+ .	 .	Emílio Garrastazu Médici
+ .	 .	Ernesto Geisel
+ .	 .	Faria Lima
+ .	 .	Humberto Castelo Branco 
+ .	 .	Ibrahim Abi-Ackel
+ .	 .	Irnack Carvalho do Amaral
+ .	 .	João Batista Figueiredo
+ .	 .	Shigeaki Ueki
+ .	 .	Telmo Dutra de Resende
+ .	 .	Valdemar Levi Cardoso
