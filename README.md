@@ -4,3 +4,6 @@ Foi proposta a criação de tesauros temáticos, com o intuito de enriquecer os 
 
 Este projeto resultou em uma base tesauro desenvolvida no software Tematres e no artigo apresentado no XIII Encontro Nacional de Pesquisa em Ciência da Informação - XIII ENANCIB 2014. 
 http://enancib2014.eci.ufmg.br/documentos/anais/anais-gt2
+
+Todas as informações registradas no tesauro são provenientes da lista de termos controlados dos sistemas de Arquivos Pessoais e História Oral do CPDOC, assim como dos verbetes do Dicionário Histórico-Biográfico Brasileiro, também produto da casa.
+https://cpdoc.fgv.br/ 
